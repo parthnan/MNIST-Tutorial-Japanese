@@ -39,4 +39,4 @@ The tutorial walks through the following:
 
 Standard MNIST dataset as shown below:
 
-![alt text](https://raw.githubusercontent.com/parthnan/MNIST-Tutorial-Japanese/master/mnist.png)
+![alt text](https://raw.githubusercontent.com/parthnan/MNIST-Tutorial-Japanese/master/mnistdata.png)
