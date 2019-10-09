@@ -8,7 +8,7 @@ Comparison of Test-time and training-time accuracy of Perceptron, 2-layer-Percep
 
 ![alt text](https://raw.githubusercontent.com/parthnan/MNIST-Tutorial-Japanese/master/test.png)
 
-# Topics Covered (in English)
+# Topics covered (in English)
 The tutorial walks through the following:
 
 1. Importing necesscary packages and the dataset "keras.datasets.mnist".
